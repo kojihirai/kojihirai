@@ -10,4 +10,4 @@ My work spans system design, embedded systems, embedded software development, te
 - **Email Me**: [kojihirai.eeng@gmail.com](mailto:kojihirai.eeng@gmail.com)
 
 ---
-💡 *Always exploring new technologies and building innovative solutions!*
+💡 *Always exploring new things!*
