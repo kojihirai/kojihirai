@@ -6,7 +6,7 @@ My work spans system design, embedded systems, real-time control, software devel
 
 ### 📫 Let's Connect!
 - **GitHub**: [@kojihirai](https://github.com/kojihirai)
-- **LinkedIn**: [Koji Hirai]((https://www.linkedin.com/in/koji-h-5b508414a/))
+- **LinkedIn**: [Koji Hirai](https://www.linkedin.com/in/koji-h-5b508414a/)
 
 ---
 💡 *Always exploring new technologies and building innovative solutions!*
