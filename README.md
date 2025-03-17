@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Koji Hirai
+Hardware and software engineer with a background in electrical engineering.
 
 ## 🔧 HW/SW Engineer
-
-Hardware and software engineer with a background in electrical engineering.
-My work spans embedded systems, real-time control, software development, test automation, and cloud infrastructure.
+My work spans system design, embedded systems, real-time control, software development, test automation, and cloud infrastructure.
 
 ### 📫 Let's Connect!
 - **GitHub**: [@kojihirai](https://github.com/kojihirai)
